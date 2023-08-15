@@ -1,4 +1,4 @@
-baseURL = 'http://ericamercado.org/'
+baseURL = 'https://salmon-mushroom-062ad2800.3.azurestaticapps.net'
 languageCode = 'en-us'
 title = 'Arts of Finance by Erica'
 theme = 'hugo-theme-massively'
